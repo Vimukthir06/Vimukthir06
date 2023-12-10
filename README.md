@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Wimukthi Rathnayaka</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h1 align="center">Well, hello thera👋, I'm Wimukthi Rathnayaka</h1>
+<h3>Who am I?</h3>
+<h4>A passionate frontend developer from Sri Lanka</h4>
 
 - 🌱 I’m currently learning **ReactJS**
 
